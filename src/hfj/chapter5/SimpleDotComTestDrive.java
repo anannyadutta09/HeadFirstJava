@@ -9,7 +9,7 @@ public class SimpleDotComTestDrive {
 		loc[1]=5;
 		loc[2]=6;
 		dot.setLocationCells(loc);
-		String userGuess = "4";
+		String userGuess = "2";
 		String result = dot.checkYourself(userGuess);
 		System.out.println("result from test " +result);
 	}
