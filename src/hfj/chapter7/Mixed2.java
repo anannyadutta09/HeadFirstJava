@@ -10,10 +10,12 @@ public class Mixed2 {
 		C d = new C();
 		A e = new C();
 		
-//		b.m1();
-//		c.m2();
-//		a.m3();
+		b.m1();
+		c.m2(); 
+		a.m3();
 		d.m4();
+		c.m3();
+		c.m1();
 		
 
 
